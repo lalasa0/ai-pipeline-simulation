@@ -1,4 +1,4 @@
-# AI Assignment – Openfabric
+# AI Assignment 
 
 This repository contains a simulation of an AI pipeline that transforms a user prompt into a 3D model using mock AI components. The assignment demonstrates the ability to design and structure an end-to-end AI app flow, with simulated modules representing LLMs, text-to-image generation, and image-to-3D conversion.
 
